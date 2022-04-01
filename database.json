@@ -1,0 +1,23 @@
+{
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 2,
+   "tax": 3,
+   "emails": [
+    "sd:dfd"
+   ]
+  },
+  {
+   "name": "visa",
+   "price": 0,
+   "tax": 0,
+   "emails": []
+  }
+ ],
+ "ch": "956305033140519012",
+ "admins": [],
+ "blacklist": [],
+ "buy": "all",
+ "status": "open"
+}
